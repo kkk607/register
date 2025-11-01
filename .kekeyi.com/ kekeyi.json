@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "kkk607"
+        "username": "github-kkk607",
+        "email": "[z3254401691@gmail.com]"
     },
     "records": {
-        "RECORDTYPE": "RECORDCONTENT"
+        "TXT": "github-verification-string"
     }
 }
