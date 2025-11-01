@@ -4,6 +4,8 @@
         "email": "[z3254401691@gmail.com]"
     },
     "records": {
-        "TXT": "github-verification-string"
+        "ns": ["ns1.daisy.ns.cloudflare.com", "ns2.fred.ns.cloudflare.com"]"
     }
+}
+"proxied": true
 }
